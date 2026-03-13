@@ -15,6 +15,21 @@ export default function RootLayout() {
           profileImg="https://i.pinimg.com/236x/ce/50/7b/ce507b5348a0ad97e9bc57649d354df9.jpg"
           postImg="https://pbs.twimg.com/media/FzXfLeQWcAI8Qne.jpg"
         />
+        <Post 
+          user="flashdosincriveis.filho"
+          profileImg="https://i.pinimg.com/236x/ce/50/7b/ce507b5348a0ad97e9bc57649d354df9.jpg"
+          postImg="https://pbs.twimg.com/media/FzXfLeQWcAI8Qne.jpg"
+        />
+        <Post 
+          user="flashdosincriveis.filho"
+          profileImg="https://i.pinimg.com/236x/ce/50/7b/ce507b5348a0ad97e9bc57649d354df9.jpg"
+          postImg="https://pbs.twimg.com/media/FzXfLeQWcAI8Qne.jpg"
+        />
+        <Post 
+          user="flashdosincriveis.filho"
+          profileImg="https://i.pinimg.com/236x/ce/50/7b/ce507b5348a0ad97e9bc57649d354df9.jpg"
+          postImg="https://pbs.twimg.com/media/FzXfLeQWcAI8Qne.jpg"
+        />
       </ScrollView>
     </SafeAreaView>
   );
